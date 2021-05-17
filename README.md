@@ -2,7 +2,7 @@
 Secured  Marsupial $SMARSUP contracts 
 
 
-# SMARSUP-INU-CONTRACT
+# SMARSUP-CONTRACT
 Smart contract BEP20
 
 
