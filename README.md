@@ -31,5 +31,5 @@ https://bscscan.com/token/0x2aada8138787eb7a8907232da6756c6ac6186ef2
 
 
 
-https://youtu.be/q9YIXlZ94U8
+
 
