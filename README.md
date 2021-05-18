@@ -1,9 +1,4 @@
-# Smarsup-Contracts
-Secured  Marsupial $SMARSUP contracts 
 
-
-# SMARSUP-CONTRACT
-Smart contract BEP20
 
 
 # The open-pouch get rich together Meme/utility Token.
