@@ -6,7 +6,7 @@ Secured  Marsupial $SMARSUP contracts
 Smart contract BEP20
 
 
-# The open-pouch get rich together Meme/utilty Token.
+# The open-pouch get rich together Meme/utility Token.
 
 Secured Marsupial ($SMARSUP) is a community-focused, decentralized cryptocurrency with instant rewards for holders. Join the mars mission. 🦘
 
