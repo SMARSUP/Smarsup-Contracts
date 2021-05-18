@@ -19,7 +19,7 @@ Secured Marsupial ($SMARSUP) is a community-focused, decentralized cryptocurrenc
 
 - Website: https://marsupial.finance/
 
-Join télégram : https://t.me/SMARSUPOFFICIAL
+Join telegram : https://t.me/SMARSUPOFFICIAL
 
 
 https://github.com/trustwallet/assets/pull/8004
